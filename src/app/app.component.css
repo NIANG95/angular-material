@@ -1,0 +1,27 @@
+/* button {
+  margin: 3em;
+} */
+
+div {
+  margin: 3em;
+}
+
+.navbar {
+  justify-content: space-between;
+}
+
+.spannav {
+  padding-right: 1em;
+}
+
+.center {
+  margin: 10rem;
+}
+
+mat-grid-tile {
+  background-color: lightblue;
+}
+
+table {
+  width: 100%;
+}
